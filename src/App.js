@@ -58,7 +58,12 @@ function App() {
 
   return (
     <div className="App">
-      <h1 className="header"> Movie Selector</h1>
+      <h1 className="header">
+        <span role="img" aria-label="movie">
+          🎥
+        </span>{" "}
+        Movie Selector
+      </h1>
       <h2 className="para">
         Best movies to watch{" "}
         <span className="span">from different genres.....</span>{" "}

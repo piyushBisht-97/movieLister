@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap");
+
+body {
+  background-color: whitesmoke;
+}
+
+.App {
+  font-family: "Josefin Sans", sans-serif;
+  text-align: center;
+}
+.header {
+  margin-bottom: 3.5%;
+  margin-top: 0%;
+  text-align: left;
+  padding: 3rem 3rem;
+
+  background-color: #ec4899;
+}
+button {
+  padding: 0.7rem 2rem;
+  border-color: mediumspringgreen;
+  border-radius: 1rem;
+  margin: 2rem 1rem;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+.para {
+  text-shadow: 3px;
+}
+.listItem {
+  border-color: orange;
+
+  border: 4px;
+}
+.span {
+  color: royalblue;
+}
+
+.movieName {
+  font-size: xx-large;
+  color: mediumspringgreen;
+}
